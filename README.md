@@ -10,5 +10,5 @@ Download zip file
 Password is : infected <br>
 Rename the extracted .bin file to .exe
 
-#PS
+# PS
 I am not the developer of this ransomware I just found the sample and sharing it including its source code, I am not responsible for your actions.
